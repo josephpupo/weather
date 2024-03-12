@@ -11,6 +11,22 @@
   setupIonicBase();
 </script>
 
+<style>
+   :global(body){
+    background-image: url(cloudy-sky-from-above.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+    display: flex;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0 auto;
+  }
+</style>
+
 <ion-app>
   <slot />
 </ion-app>
