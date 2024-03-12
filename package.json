@@ -22,6 +22,8 @@
 	"type": "module",
 	"dependencies": {
 		"@ionic/core": "^7.7.0",
-		"ionic-svelte": "^0.5.82"
+		"dotenv": "^16.4.5",
+		"ionic-svelte": "^0.5.82",
+		"openweathermap-ts": "^1.2.10"
 	}
 }
