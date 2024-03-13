@@ -1,4 +1,4 @@
-<script>
+<script lang>
   import { setupIonicBase } from 'ionic-svelte';
 
   /* Theme variables */
@@ -9,6 +9,10 @@
 
   /* run base configuration code from ionic/core */
   setupIonicBase();
+
+  // Export preloaded data from server
+  export let data;
+
 </script>
 
 <style>
