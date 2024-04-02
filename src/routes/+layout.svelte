@@ -11,7 +11,7 @@
   setupIonicBase();
 
   // Export preloaded data from server
-  export let data;
+  //export let data;
 
 </script>
 
