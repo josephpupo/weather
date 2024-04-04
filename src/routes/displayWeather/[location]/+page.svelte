@@ -24,9 +24,6 @@
 
 </script>
 
-
-
-
 <ion-header>
   <ion-toolbar>
     <ion-title>Please Choose A City to View the Weather!</ion-title>
