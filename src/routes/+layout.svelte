@@ -1,6 +1,6 @@
 <script lang>
   import { setupIonicBase } from 'ionic-svelte';
-
+ 
   /* Theme variables */
   import '../theme/variables.css';
 
